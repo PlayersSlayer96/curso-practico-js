@@ -66,7 +66,7 @@ function calcularDineroReal(dineroAhorrado, deudas){
 
 1️⃣ Responde las siguientes preguntas en la sección de comentarios:
 - ¿Qué es una función?
-Una funcion permite realizar** una o multiples operaciones** en un bloque de codigo de programacion. Es decir, es la manera de usar una serie de instrucciones para modificar un valor y obtener un resultado dadas ciertas condiciones.
+Una funcion permite realizar **una o multiples operaciones** en un bloque de codigo de programacion. Es decir, es la manera de usar una serie de instrucciones para modificar un valor y obtener un resultado dadas ciertas condiciones.
 
 - ¿Cuándo me sirve usar una función en mi código?
  Las funciones pueden **ahorrar tiempo**, pues ayudan a realizar operaciones repetitivas, entonces, sirve usar una uncion cuando quiero reutilizar codigo multiples veces. Ademas no necesariamente deben devolver un resultado, pero si deben realizar una o muchas operaciones para un fin.
