@@ -74,14 +74,17 @@ Una funcion permite realizar **una o multiples operaciones** en un bloque de cod
 - ¿Cuál es la diferencia entre parámetros y argumentos de una función?
 Es una nocion similar a la de declarar una variable e iniciar una variable.
 
-	Los parametros en una funcion es la manera de definir que **valores espera recibir una funcion ** en su sintaxis. 
-	e.g: 
-	function ejemplo(**parametro1, parametro2,...**){}
-
-	Los argumentos en una funcion son los valores que toman dichos parametros una vez la funcion ha sido llamada.
+	Los parametros en una funcion es la manera de definir que **valores espera recibir una funcion** en su sintaxis. 
 	e.g:
+	```
+	function ejemplo(**parametro1, parametro2,...**){}
+	```
+	Los argumentos en una funcion son los **valores que toman dichos parametros** una vez la funcion ha sido llamada.
+	e.g:
+	```
 	ejemplo(**argumento1, argumento2...**)
 	function ejemplo(parametro1, parametro2,...){}
+	```
 
 2️⃣ Convierte el siguiente código en una función, pero, cambiando cuando sea necesario las variables constantes por parámetros y argumentos en una función:
 ```
