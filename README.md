@@ -4,11 +4,11 @@ Esta es una prueba que es parte del curso practico de Javascript dentro de la pl
 
 ------------
 
-1.  [Variables y operaciones](###variables-y-operaciones)
+1. [Variables y operaciones](###variables-y-operaciones)
 2. [Funciones](###funciones)
 3. [Condicionales](###condicionales)
 4. [Ciclos](###ciclos)
-5. [LIstas](###listas)
+5. [Listas](###listas)
 
 ------------
 
